@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class A1Mushtaq7785430 {
+public class Hotel {
 	
 	static String type;
 	static String hotelName, cusName, lName, fName, rPrefered;
